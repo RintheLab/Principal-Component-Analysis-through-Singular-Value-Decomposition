@@ -64,3 +64,8 @@ dim(ls_dg_prcomp)
 
 # First 5 rows and columns
 ls_dg_prcomp[1:5, 1:5]
+
+
+# Eigenvectors (usually reported as loadings) -----------------------------
+
+dg_pca$rotation[1:5, 1:5]

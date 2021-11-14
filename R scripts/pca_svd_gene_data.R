@@ -88,3 +88,8 @@ dim(ls_dg_svd)
 
 # First 5 rows and columns
 ls_dg_svd[1:5, 1:5]
+
+
+# Eigenvectors (usually reported as loadigins) ----------------------------
+
+dg_v[1:5, 1:5]
